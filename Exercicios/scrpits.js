@@ -30,7 +30,7 @@ let student = {
      name: "Junior",
      age: 31,
      weight: 110,
-    isSubscribed: true,
+     isSubscribed: true,
 }
 console.log(typeof student)
 console.log(`${student.name} de idade ${student.age} pesa ${student.weight}`)
@@ -73,4 +73,4 @@ console.log(students)
 // console.log(a)
 // var a = 1
 
-Retorna o valor undefined, pois var é uma variavel Global.
+//Retorna o valor undefined, pois var é uma variavel Global.
